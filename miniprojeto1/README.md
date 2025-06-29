@@ -15,4 +15,4 @@ This is the **first version** of the classic Hangman game implemented for the *E
 - Use of dynamic memory (no static arrays)
 - ASCII drawing and command-line interaction
 
-📄 See [`relatorio.pdf`](./relatorio.pdf) for the report.
+📄 See [`relatorio.pdf`](./Relatório do miniprojeto do Jogo da Forca_GoncaloBastos_JoseNogueira.pdf) for the report.
