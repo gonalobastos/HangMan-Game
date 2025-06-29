@@ -1,0 +1,8 @@
+amarelo 1
+verde 1
+vermelho 0
+laranja 0
+azul 1
+preto 0
+castanho 0
+branco 1

@@ -1,0 +1,8 @@
+coelho 0
+lebre 0
+lagosta 0
+pavao 0
+tubarao 0
+ovelha 0
+cachorro 0
+galo 0

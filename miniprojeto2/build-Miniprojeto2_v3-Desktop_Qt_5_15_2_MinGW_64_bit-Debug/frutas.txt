@@ -1,0 +1,8 @@
+pecego 0
+pera 0
+limao 0
+banana 0
+amora 0
+abacate 0
+morango 0
+tangerina 0
