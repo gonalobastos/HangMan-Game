@@ -1,0 +1,8 @@
+coelho
+lebre
+lagosta
+pavao
+tubarao
+ovelha 
+cachorro
+galo 
