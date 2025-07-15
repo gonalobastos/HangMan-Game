@@ -17,4 +17,4 @@ This repository contains the development of a classic **Hangman game** implement
 ## 📌 Authors
 
 - Gonçalo Bastos (eusoudebastos@gmail.com)
-- José Nogueira ()
+- José Nogueira (josepfnogueira@gmail.com)
